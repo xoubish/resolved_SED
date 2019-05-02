@@ -8,12 +8,14 @@ https://archive.stsci.edu/prepds/candels/
 
 I upload the PSFs I build using stars in the GOODS-S field for all HST filters in this repository. There might be more optimized versions for different parts of each field or in different fields.
 
-Codes are written in jupyter notebooks and you can find short description below. 
+Codes are written in jupyter notebooks and you can find short description below. Requirements:
+ Python 3 or above!, astropy, photutils, numpy and scipy 
+
 
 - An ipython notebook to select galaxies, from an integrated multi-wavelength catalog.
 - An ipython notebook to generate per pixel multi-wavelength photometry catalog for a galaxy given RA, DEC and Redshift. 
 - Fitting using SOMfit in python instead of LePhare. (Not there yet!)
-- Plotting LePhare results into 2D maps. 
+- Plotting LePhare results into 2D maps. (will add later)
 
 
 

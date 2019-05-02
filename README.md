@@ -3,7 +3,7 @@
 Idea is to measure resolved physical properties of galaxies starting from HST imaging. One can use other lower spatial resolution imaging, if science is not restricted to be at kpc-scale. For details please refer to Hemmati et al. 2014.
 
 
-The HST images in five CANDELS fields can be found and downloaded from here:
+The HST images in five CANDELS fields as well as the multi-wavelength catalogs (needed to do initial selection of sources) can be found and downloaded from here:
 https://archive.stsci.edu/prepds/candels/
 
 I upload the PSFs I build using stars in the GOODS-S field for all HST filters in this repository. There might be more optimized versions for different parts of each field or in different fields.
